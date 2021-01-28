@@ -1,3 +1,9 @@
+###############################
+###############################
+###### INVEST AND DONATE ######
+###############################
+###############################
+
 # The 'Asset' function computes the investment's size after the nth year's donation
 # The 'Donation' function computes the size of of the nth year's donation
 # The 'Sum' function computes the sum of all donations after the nth year's donation
