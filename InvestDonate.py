@@ -63,3 +63,13 @@ def Time(m, z, q, t = 1):
 # Example
 # At 20% growth and donating 2% per year, it takes 23 years to donate more than 5 times the initial investment
 Time(m = 1.2, z = 5, q = .02) # 23
+
+
+
+
+
+
+
+
+
+
