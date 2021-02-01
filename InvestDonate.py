@@ -47,9 +47,9 @@ m = 1.2
 k = 1000
 q = .02
 n = 23
-print('Asset = ' + str(Asset(m, k, q, n))) # 41626.36
-print('Donation = ' + str(Donation(m, k, q, n))) # 832.53
-print('Sum of Donations = ' + str(Sum(m, k, q, n))) # 5429.16
+print('Asset = ' + str(Asset(m, k, q, n))) # Asset = 41626.36
+print('Donation = ' + str(Donation(m, k, q, n))) # Donation = 832.53
+print('Sum of Donations = ' + str(Sum(m, k, q, n))) # Sum of Donations = 5429.16
 
 
 
