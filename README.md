@@ -4,6 +4,14 @@ This is a minor project in which I show that there are great, non-selfish benefi
 
 &nbsp;
 
+In this scenario we imagine an initial amount of disposable money, say $1,000, that we want to donate. Instead of doing so all at once, we can invest it and donate 1% at the end of each year. This plot shows how many years it would take to donate multiples of the original amount for various growth rates.
+
+A realistic growth rate for the stock market, 10%, would allow someone to donate more than 20 times the original amount over 60 years. They would also have grown the original $1,000 investment to more than $166,000, which could be used for continued 1% donations, or donated as well for a total donation of more than $186,000. This is an impressive lifetime outcome for a mere $1,000.
+
 <p align="center">
 <img src="https://github.com/rjwthree/Invest-Donate/blob/main/InvestDonate.png" width="700" height="600"/>
 </p>
+
+&nbsp;
+
+How would this approach fare with a higher donation rate like 2%?
