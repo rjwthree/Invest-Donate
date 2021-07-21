@@ -1,4 +1,4 @@
-## Investment is good for charitable donations
+# Investment is good for charitable donations
 
 This is a minor project in which I show that there are great, non-selfish benefits to investing money you intend to give to charity. I consider a strategy in which you donate a small fraction of the assets intended for charity each year, while investing the rest. Click [here](https://github.com/rjwthree/Invest-donate/blob/main/InvestDonate.pdf) to read about it and [here](https://github.com/rjwthree/Invest-donate/blob/main/InvestDonate.py) to see the Python functions I wrote that make it easy to calculate the results of any variant of the strategy.
 
@@ -17,3 +17,14 @@ We can also note the power of compounding growth: although it took 60 years to d
 &nbsp;
 
 How would this approach fare with a higher donation rate like 2%?
+
+
+&nbsp;
+
+### Reality check
+
+Taxes are a major consideration in real life. Imagine someone whose marginal federal and state tax rates sum to 28%. If this person doesn't donate money earmarked for charity in the year they earned it, then just to recover the pre-tax amount they would need a nearly 39% gain. This may seem to ruin an idea that sounded nice in theory. It's a very important caveat, but there are two reasons why the idea can still be implemented in reality.
+
+First, charitable donations do not reduce taxes significantly for everyone. If someone filing individually gave $10,000 to charities in 2021, they may still benefit most by taking the standard deduction of $12,550. In this case, they would be able to deduct only an additional $300 from their taxable income despite their generous donations being far larger. If their federal marginal tax rate were 22%, the donations would save them only $66 on federal taxes.
+
+Second, some tax-advantaged accounts allow both contributions and investment earnings to escape income taxes. If some fraction of your contributions to a traditional IRA or 401(k) were mentally allocated to charity, you could pursue this approach without any concern for taxes. Tax-deferred retirement accounts present the ideal [location](https://www.fidelity.com/viewpoints/investing-ideas/asset-location-lower-taxes) for charity-focused investment.
