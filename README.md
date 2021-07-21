@@ -18,6 +18,14 @@ We can also note the power of compounding growth: although it took 60 years to d
 
 How would this approach fare with a higher donation rate like 2%?
 
+<p align="center">
+<img src="https://github.com/rjwthree/Invest-Donate/blob/main/InvestDonate2.png" width="700" height="600"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/rjwthree/Invest-Donate/blob/main/InvestDonate3.png" width="700" height="600"/>
+</p>
+
 
 &nbsp;
 
