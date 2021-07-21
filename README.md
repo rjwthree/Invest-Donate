@@ -23,7 +23,7 @@ How would this approach fare with a higher donation rate like 2%?
 
 ### Reality check
 
-Taxes are a major consideration in real life. Imagine someone whose marginal federal and state tax rates sum to 28%. If this person doesn't donate money earmarked for charity in the year they earned it, then just to restore the pre-tax amount they would need a 39% gain (i.e., 0.72 × 1.39 = 1.00). This may seem to tarnish an idea that sounded nice in theory. It's a very important caveat, but there are two reasons why the idea can still be implemented in reality.
+Taxes are a major consideration in real life. Imagine a US citizen whose marginal federal and state tax rates sum to 28%. If this person doesn't donate money earmarked for charity in the year they earned it, then just to restore the pre-tax amount they would need a 39% gain (i.e., 0.72 × 1.39 = 1.00). This may seem to tarnish an idea that sounded nice in theory. It's a very important caveat, but there are two reasons why the idea can still be implemented in reality.
 
 First, charitable donations do not reduce taxes significantly for everyone. If someone filing individually gave $10,000 to charities in 2021, they may still benefit most by taking the standard deduction of $12,550. In this case, they would be able to deduct only an additional $300 from their taxable income despite their generous donations being far larger. If their federal marginal tax rate were 22%, the donations would save them only $66 on federal taxes.
 
