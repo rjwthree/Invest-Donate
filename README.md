@@ -16,7 +16,7 @@ We can also note the power of compounding growth: although it took 60 years to d
 
 &nbsp;
 
-How would this approach fare with a higher donation rate like 3%? The first plot zooms in to make the differences visible; the second one shows the whole picture. What conclusions can we draw? At first, larger donations improve our cumulative donations, but eventually smaller donations overtake them. The differences matter much more if the growth rate is small. Even though the points at which 1% donations surpass 3% donations are not observed for growth rates of 15% and more, they exist for any growth rate. It takes 80 years for 1% donations to win at 5% growth; 62 years at 15% growth; and 58 years at 30% growth.
+How would this approach fare with a higher donation rate like 3%? The first plot zooms in to make the differences visible; the second one shows the whole picture. What conclusions can we draw? At first, larger donations improve our cumulative donations, but eventually smaller donations overtake them. The differences matter much more if the growth rate is small. Even though the points at which 1% donations surpass 3% donations are not observed for growth rates of 15% and more, they exist for any growth rate. It takes 80 years for 1% donations to win at 5% growth; 67 years at 10% growth; and 58 years at 30% growth.
 
 <p align="center">
 <img src="https://github.com/rjwthree/Invest-Donate/blob/main/InvestDonate2.png" width="700" height="600"/>
